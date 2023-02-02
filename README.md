@@ -1,3 +1,3 @@
-# huffmanCoding
+# HuffmanCoding
 
-Implementaion of encoding and Decoding of  a text file using HUFFMAN ALGORITHM
+Implementaion of Encoding and Decoding of  a text file using HUFFMAN ALGORITHM
